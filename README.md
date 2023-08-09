@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **MERN ,Android,Java,C++, Data structures**
+- 💬 Ask me about **MERN ,Android,Java,C++, Data structures,Machine Learning**
 
 - 📫 How to reach me **kavyansheduv@gmail.com**
 
